@@ -1,20 +1,14 @@
 - version: "1.0"
-  release_name: ""
   release_date: "1984"
 - version: "2.0"
-  release_name: ""
   release_date: "1986"
 - version: "3.0"
-  release_name: ""
   release_date: "1987"
 - version: "3.5"
-  release_name: ""
   release_date: "1990"
 - version: "4.0"
-  release_name: ""
   release_date: "1992"
 - version: "4.2c"
-  release_name: ""
   release_date: "1994"
 - version: "5.0"
   release_name: "Volume 8"
@@ -34,159 +28,212 @@
 - version: "6.0"
   release_name: "R12"
   release_date: "November 2000"
+  license_number: 12
 - version: "6.1"
   release_name: "R12.1"
   release_date: "June 2001"
+  license_number: 12
 - version: "6.5"
   release_name: "R13"
   release_date: "July 2002"
+  license_number: 13
 - version: "6.5.1"
   release_name: "R13SP1"
   release_date: "2003"
+  license_number: 13
 - version: "7.0"
   release_name: "R14"
   release_date: "June 2004"
+  license_number: 14
 - version: "7.0.1"
   release_name: "R14SP1"
   release_date: "October 2004"
+  license_number: 14
 - version: "7.0.1"
   release_name: "R14SP1+"
   release_date: "November 2004"
+  license_number: 14
 - version: "7.0.4"
   release_name: "R14SP2"
   release_date: "March 7, 2005"
+  license_number: 14
 - version: "7.1"
   release_name: "R14SP3"
   release_date: "September 1, 2005"
+  license_number: 14
 - version: "7.2"
   release_name: "R2006a"
   release_date: "March 1, 2006"
+  license_number: 15
 - version: "7.3"
   release_name: "R2006b"
   release_date: "September 1, 2006"
+  license_number: 16
 - version: "7.4"
   release_name: "R2007a"
   release_date: "March 1, 2007"
+  license_number: 17
 - version: "7.5"
   release_name: "R2007b"
   release_date: "September 1, 2007"
+  license_number: 18
 - version: "7.6"
   release_name: "R2008a"
   release_date: "March 1, 2008"
+  license_number: 19
 - version: "7.7"
   release_name: "R2008b"
   release_date: "October 9, 2008"
+  license_number: 20
 - version: "7.8"
   release_name: "R2009a"
   release_date: "March 6, 2009"
+  license_number: 21
 - version: "7.9"
   release_name: "R2009b"
   release_date: "September 4, 2009"
+  license_number: 22
 - version: "7.9.1"
   release_name: "R2009bSP1"
   release_date: "April 1, 2010"
+  license_number: 22
 - version: "7.10"
   release_name: "R2010a"
   release_date: "March 5, 2010"
+  license_number: 23
 - version: "7.11"
   release_name: "R2010b"
   release_date: "September 3, 2010"
+  license_number: 24
 - version: "7.11.1"
   release_name: "R2010bSP1"
   release_date: "March 17, 2011"
+  license_number: 24
 - version: "7.11.2"
   release_name: "R2010bSP2"
   release_date: "April 5, 2012"
+  license_number: 24
 - version: "7.12"
   release_name: "R2011a"
   release_date: "April 8, 2011"
+  license_number: 25
 - version: "7.13"
   release_name: "R2011b"
   release_date: "September 1, 2011"
+  license_number: 26
 - version: "7.14"
   release_name: "R2012a"
   release_date: "March 1, 2012"
+  license_number: 27
 - version: "8.0"
   release_name: "R2012b"
   release_date: "September 11, 2012"
+  license_number: 28
 - version: "8.1"
   release_name: "R2013a"
   release_date: "March 7, 2013"
+  license_number: 29
 - version: "8.2"
   release_name: "R2013b"
   release_date: "September 6, 2013"
+  license_number: 30
 - version: "8.3"
   release_name: "R2014a"
   release_date: "March 7, 2014"
+  license_number: 31
 - version: "8.4"
   release_name: "R2014b"
   release_date: "October 3, 2014"
+  license_number: 32
 - version: "8.5"
   release_name: "R2015a"
   release_date: "March 5, 2015"
+  license_number: 33
 - version: "8.5.1"
   release_name: "R2015aSP1"
   release_date: "October 14, 2015"
+  license_number: 33
 - version: "8.6"
   release_name: "R2015b"
   release_date: "September 3, 2015"
+  license_number: 34
 - version: "9.0"
   release_name: "R2016a"
   release_date: "March 3, 2016"
+  license_number: 35
 - version: "9.1"
   release_name: "R2016b"
   release_date: "September 15, 2016"
+  license_number: 36
 - version: "9.2"
   release_name: "R2017a"
   release_date: "March 9, 2017"
+  license_number: 37
 - version: "9.3"
   release_name: "R2017b"
   release_date: "September 21, 2017"
+  license_number: 38
 - version: "9.4"
   release_name: "R2018a"
   release_date: "March 15, 2018"
+  license_number: 39
 - version: "9.5"
   release_name: "R2018b"
   release_date: "September 12, 2018"
+  license_number: 40
 - version: "9.6"
   release_name: "R2019a"
   release_date: "March 20, 2019"
+  license_number: 41
 - version: "9.7"
   release_name: "R2019b"
   release_date: "September 11, 2019"
+  license_number: 42
 - version: "9.8"
   release_name: "R2020a"
   release_date: "March 18, 2020"
+  license_number: 43
 - version: "9.9"
   release_name: "R2020b"
   release_date: "September 16, 2020"
+  license_number: 44
 - version: "9.10"
   release_name: "R2021a"
   release_date: "March 10, 2021"
+  license_number: 45
 - version: "9.11"
   release_name: "R2021b"
   release_date: "September 22, 2021"
+  license_number: 46
 - version: "9.12"
   release_name: "R2022a"
   release_date: "March 9, 2022"
+  license_number: 47
 - version: "9.13"
   release_name: "R2022b"
   release_date: "September 14, 2022"
+  license_number: 48
 - version: "9.14"
   release_name: "R2023a"
   release_date: "March 15, 2023"
+  license_number: 49
 - version: "23.2"
   release_name: "R2023b"
   release_date: "September 13, 2023"
+  license_number: 50
 - version: "24.1"
   release_name: "R2024a"
   release_date: "March 20, 2024"
+  license_number: 51
 - version: "24.2"
   release_name: "R2024b"
   release_date: "September 11, 2024"
+  license_number: 52
 - version: "25.1"
   release_name: "R2025a"
   release_date: "May 14, 2025"
+  license_number: 53
 - version: "25.2"
   release_name: "R2025b"
   release_date: "September 17, 2025"
+  license_number: 54

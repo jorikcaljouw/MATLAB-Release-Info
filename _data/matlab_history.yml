@@ -29,211 +29,264 @@
   release_name: "R12"
   release_date: "November 2000"
   license_number: 12
+  jvm: "1.1.8"
 - version: "6.1"
   release_name: "R12.1"
   release_date: "June 2001"
   license_number: 12
+  jvm: "1.1.8"
 - version: "6.5"
   release_name: "R13"
   release_date: "July 2002"
   license_number: 13
+  jvm: "1.3.1"
 - version: "6.5.1"
   release_name: "R13SP1"
   release_date: "2003"
   license_number: 13
+  jvm: "1.3.1"
 - version: "7.0"
   release_name: "R14"
   release_date: "June 2004"
   license_number: 14
+  jvm: "1.4.2"
 - version: "7.0.1"
   release_name: "R14SP1"
   release_date: "October 2004"
   license_number: 14
+  jvm: "1.4.2"
 - version: "7.0.1"
   release_name: "R14SP1+"
   release_date: "November 2004"
   license_number: 14
+  jvm: "1.4.2"
 - version: "7.0.4"
   release_name: "R14SP2"
   release_date: "March 7, 2005"
   license_number: 14
+  jvm: "1.5.0"
 - version: "7.1"
   release_name: "R14SP3"
   release_date: "September 1, 2005"
   license_number: 14
+  jvm: "1.5.0"
 - version: "7.2"
   release_name: "R2006a"
   release_date: "March 1, 2006"
   license_number: 15
+  jvm: "1.5.0"
 - version: "7.3"
   release_name: "R2006b"
   release_date: "September 1, 2006"
   license_number: 16
+  jvm: "1.5.0"
 - version: "7.4"
   release_name: "R2007a"
   release_date: "March 1, 2007"
   license_number: 17
+  jvm: "1.5.0_07"
 - version: "7.5"
   release_name: "R2007b"
   release_date: "September 1, 2007"
   license_number: 18
+  jvm: "1.6.0"
 - version: "7.6"
   release_name: "R2008a"
   release_date: "March 1, 2008"
   license_number: 19
+  jvm: "1.6.0"
 - version: "7.7"
   release_name: "R2008b"
   release_date: "October 9, 2008"
   license_number: 20
+  jvm: "1.6.0_04"
 - version: "7.8"
   release_name: "R2009a"
   release_date: "March 6, 2009"
   license_number: 21
+  jvm: "1.6.0_04"
 - version: "7.9"
   release_name: "R2009b"
   release_date: "September 4, 2009"
   license_number: 22
+  jvm: "1.6.0_12"
 - version: "7.9.1"
   release_name: "R2009bSP1"
   release_date: "April 1, 2010"
   license_number: 22
+  jvm: "1.6.0_12"
 - version: "7.10"
   release_name: "R2010a"
   release_date: "March 5, 2010"
   license_number: 23
+  jvm: "1.6.0_12"
 - version: "7.11"
   release_name: "R2010b"
   release_date: "September 3, 2010"
   license_number: 24
+  jvm: "1.6.0_17"
 - version: "7.11.1"
   release_name: "R2010bSP1"
   release_date: "March 17, 2011"
   license_number: 24
+  jvm: "1.6.0_17"
 - version: "7.11.2"
   release_name: "R2010bSP2"
   release_date: "April 5, 2012"
   license_number: 24
+  jvm: "1.6.0_17"
 - version: "7.12"
   release_name: "R2011a"
   release_date: "April 8, 2011"
   license_number: 25
+  jvm: "1.6.0_17"
 - version: "7.13"
   release_name: "R2011b"
   release_date: "September 1, 2011"
   license_number: 26
+  jvm: "1.6.0_17"
 - version: "7.14"
   release_name: "R2012a"
   release_date: "March 1, 2012"
   license_number: 27
+  jvm: "1.6.0_17"
 - version: "8.0"
   release_name: "R2012b"
   release_date: "September 11, 2012"
   license_number: 28
+  jvm: "1.6.0_17"
 - version: "8.1"
   release_name: "R2013a"
   release_date: "March 7, 2013"
   license_number: 29
+  jvm: "1.6.0_17"
 - version: "8.2"
   release_name: "R2013b"
   release_date: "September 6, 2013"
   license_number: 30
+  jvm: "1.7.0_11"
 - version: "8.3"
   release_name: "R2014a"
   release_date: "March 7, 2014"
   license_number: 31
+  jvm: "1.7.0_11"
 - version: "8.4"
   release_name: "R2014b"
   release_date: "October 3, 2014"
   license_number: 32
+  jvm: "1.7.0_11"
 - version: "8.5"
   release_name: "R2015a"
   release_date: "March 5, 2015"
   license_number: 33
+  jvm: "1.7.0_60"
 - version: "8.5.1"
   release_name: "R2015aSP1"
   release_date: "October 14, 2015"
   license_number: 33
+  jvm: "1.7.0_60"
 - version: "8.6"
   release_name: "R2015b"
   release_date: "September 3, 2015"
   license_number: 34
+  jvm: "1.7.0_60"
 - version: "9.0"
   release_name: "R2016a"
   release_date: "March 3, 2016"
   license_number: 35
+  jvm: "1.7.0_60"
 - version: "9.1"
   release_name: "R2016b"
   release_date: "September 15, 2016"
   license_number: 36
+  jvm: "1.7.0_60"
 - version: "9.2"
   release_name: "R2017a"
   release_date: "March 9, 2017"
   license_number: 37
+  jvm: "1.7.0_60"
 - version: "9.3"
   release_name: "R2017b"
   release_date: "September 21, 2017"
   license_number: 38
+  jvm: "1.8.0_121"
 - version: "9.4"
   release_name: "R2018a"
   release_date: "March 15, 2018"
   license_number: 39
+  jvm: "1.8.0_144"
 - version: "9.5"
   release_name: "R2018b"
   release_date: "September 12, 2018"
   license_number: 40
+  jvm: "1.8.0_152"
 - version: "9.6"
   release_name: "R2019a"
   release_date: "March 20, 2019"
   license_number: 41
+  jvm: "1.8.0_181"
 - version: "9.7"
   release_name: "R2019b"
   release_date: "September 11, 2019"
   license_number: 42
+  jvm: "1.8.0_202"
 - version: "9.8"
   release_name: "R2020a"
   release_date: "March 18, 2020"
   license_number: 43
+  jvm: "1.8.0_202"
 - version: "9.9"
   release_name: "R2020b"
   release_date: "September 16, 2020"
   license_number: 44
+  jvm: "1.8.0_202"
 - version: "9.10"
   release_name: "R2021a"
   release_date: "March 10, 2021"
   license_number: 45
+  jvm: "1.8.0_202"
 - version: "9.11"
   release_name: "R2021b"
   release_date: "September 22, 2021"
   license_number: 46
+  jvm: "1.8.0_202"
 - version: "9.12"
   release_name: "R2022a"
   release_date: "March 9, 2022"
   license_number: 47
+  jvm: "1.8.0_202"
 - version: "9.13"
   release_name: "R2022b"
   release_date: "September 14, 2022"
   license_number: 48
+  jvm: "1.8.0_202"
 - version: "9.14"
   release_name: "R2023a"
   release_date: "March 15, 2023"
   license_number: 49
+  jvm: "1.8.0_202"
 - version: "23.2"
   release_name: "R2023b"
   release_date: "September 13, 2023"
   license_number: 50
+  jvm: "1.8.0_202"
 - version: "24.1"
   release_name: "R2024a"
   release_date: "March 20, 2024"
   license_number: 51
+  jvm: "1.8.0_202"
 - version: "24.2"
   release_name: "R2024b"
   release_date: "September 11, 2024"
   license_number: 52
+  jvm: "1.8.0_202"
 - version: "25.1"
   release_name: "R2025a"
   release_date: "May 14, 2025"
   license_number: 53
+  jvm: "1.8.0_202"
 - version: "25.2"
   release_name: "R2025b"
   release_date: "September 17, 2025"
   license_number: 54
+  jvm: "1.8.0_202"

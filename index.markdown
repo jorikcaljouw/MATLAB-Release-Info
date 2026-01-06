@@ -17,7 +17,7 @@ MathWorks releases a new version of MATLAB twice annually since 2016. The table 
   </tr>
 </thead>
 <tbody>
-  {% for item in site.data.matlab_history %}
+  {% for item in site.data.matlab_history reversed %}
   <tr>
     <td>{{ item.version }}</td>
     <td>{{ item.release_name }}</td>

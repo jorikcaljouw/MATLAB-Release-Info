@@ -5,14 +5,15 @@ title: MATLAB Version History
 
 # MATLAB Version History
 
-MathWorks releases a new version of MATLAB twice annually since 2016. The table below displays the version number, release "name", license number as shown in license files, release date and bundled JVM (for Windows) per version. Additional columns will be added shortly including information about newly introduced products, and any changes or transitions in product names.
+MathWorks has released a new version of MATLAB twice annually since 2016. The table below displays the MATLAB version number, release "name", (release) number, release date and bundled JVM version (for Windows). See the [repository](https://github.com/jorikcaljouw/MATLAB-Release-Info) for planned enhancements and for giving feedback on this page.
+The release number is the version reported by Concurrent License Manager program [FLEXlm](https://en.wikipedia.org/wiki/FlexNet_Publisher) and this number can also be seen in the license file.
 
 <table>
 <thead>
   <tr>
     <th>Version</th>
     <th>Release Name</th>
-    <th>License Number</th>
+    <th>Number</th>
     <th>Release Date</th>
     <th>Bundled JVM</th>
   </tr>

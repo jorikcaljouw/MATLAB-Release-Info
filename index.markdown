@@ -16,6 +16,7 @@ The release number is the version reported by Concurrent License Manager program
     <th>Number</th>
     <th>Release Date</th>
     <th>Bundled JVM</th>
+    <th>New Product</th>
   </tr>
 </thead>
 <tbody>
@@ -26,6 +27,7 @@ The release number is the version reported by Concurrent License Manager program
     <td>{{ item.license_number }}</td>
     <td>{{ item.release_date }}</td>
     <td>{{ item.jvm }}</td>
+    <td>{{ item.new_product | join: '; ' }}</td>
   </tr>
   {% endfor %}
 </tbody>

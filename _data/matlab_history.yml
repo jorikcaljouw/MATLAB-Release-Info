@@ -155,21 +155,29 @@
   release_date: "September 11, 2012"
   license_number: 28
   jvm: "1.6.0_17"
+  new_product: '<a href="https://www.mathworks.com/products/matlab-production-server.html">MATLAB Production Server</a>'
 - version: "8.1"
   release_name: "R2013a"
   release_date: "March 7, 2013"
   license_number: 29
   jvm: "1.6.0_17"
+  new_product: 
+    - Trading Toolbox
+    - <a href="https://www.mathworks.com/products/fixed-point-designer.html">Fixed-Point Designer</a>
 - version: "8.2"
   release_name: "R2013b"
   release_date: "September 6, 2013"
   license_number: 30
   jvm: "1.7.0_11"
+  new_product:
+    - <a href="https://www.mathworks.com/products/polyspace-bug-finder.html">Polyspace Bug Finder</a>
+    - <a href="https://www.mathworks.com/products/polyspace-code-prover.html">Polyspace Code Prover</a>
 - version: "8.3"
   release_name: "R2014a"
   release_date: "March 7, 2014"
   license_number: 31
   jvm: "1.7.0_11"
+  new_product: <a href="https://www.mathworks.com/products/lte.html">LTE Toolbox</a>
 - version: "8.4"
   release_name: "R2014b"
   release_date: "October 3, 2014"

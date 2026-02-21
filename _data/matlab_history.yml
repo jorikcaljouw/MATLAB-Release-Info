@@ -188,6 +188,7 @@
   release_date: "March 5, 2015"
   license_number: 33
   jvm: "1.7.0_60"
+  new_product: <a href="https://www.mathworks.com/products/simulink-test.html">Simulink Test</a>
 - version: "8.5.1"
   release_name: "R2015aSP1"
   release_date: "October 14, 2015"
@@ -203,6 +204,9 @@
   release_date: "March 3, 2016"
   license_number: 35
   jvm: "1.7.0_60"
+  new_product:
+    - <a href="https://www.mathworks.com/products/audio.html">Audio Toolbox</a>
+    - <a href="https://www.mathworks.com/products/wlan.html">WLAN Toolbox</a>
 - version: "9.1"
   release_name: "R2016b"
   release_date: "September 15, 2016"
@@ -213,71 +217,133 @@
   release_date: "March 9, 2017"
   license_number: 37
   jvm: "1.7.0_60"
+  new_product:
+    - <a href="https://www.mathworks.com/products/automated-driving.html">Automated Driving Toolbox</a>
+    - <a href="https://www.mathworks.com/products/powertrain.html">Powertrain Blockset</a>
 - version: "9.3"
   release_name: "R2017b"
   release_date: "September 21, 2017"
   license_number: 38
   jvm: "1.8.0_121"
+  new_product:
+    - <a href="https://www.mathworks.com/products/gpu-coder.html">GPU Coder</a>
+    - LTE HDL Toolbox
+    - Simulink Check
+    - Simulink Coverage
+    - Simulink Requirements
+    - Text Analytics Toolbox
 - version: "9.4"
   release_name: "R2018a"
   release_date: "March 15, 2018"
   license_number: 39
   jvm: "1.8.0_144"
+  new_product:
+    - <a href="https://www.mathworks.com/products/predictive-maintenance.html">Predictive Maintenance Toolbox</a>
+    - <a href="https://www.mathworks.com/products/vehicle-dynamics.html">Vehicle Dynamics Blockset</a>
 - version: "9.5"
   release_name: "R2018b"
   release_date: "September 12, 2018"
   license_number: 40
   jvm: "1.8.0_152"
+  new_product:
+    - <a href="https://www.mathworks.com/products/5g.html">5G Toolbox</a>
+    - <a href="https://www.mathworks.com/products/sensor-fusion-and-tracking.html">Sensor Fusion and Tracking Toolbox</a>
 - version: "9.6"
   release_name: "R2019a"
   release_date: "March 20, 2019"
   license_number: 41
   jvm: "1.8.0_181"
+  new_product:
+    - <a href="https://www.mathworks.com/products/autosar.html">AUTOSAR Blockset</a>
+    - <a href="https://www.mathworks.com/products/mixed-signal.html">Mixed-Signal Blockset</a>
+    - <a href="https://www.mathworks.com/products/polyspace-code-prover-server.html">Polyspace Code Prover Server</a>
+    - Polyspace Bug Finder Access
+    - Polyspace Code Prover Access
+    - <a href="https://www.mathworks.com/products/polyspace-bug-finder-server.html">Polyspace Bug Finder Server</a>
+    - <a href="https://www.mathworks.com/products/reinforcement-learning.html">Reinforcement Learning Toolbox</a>
+    - <a href="https://www.mathworks.com/products/soc.html">SoC Blockset</a>
+    - <a href="https://www.mathworks.com/products/serdes.html">SerDes Toolbox</a>
+    - <a href="https://www.mathworks.com/products/system-composer.html">System Composer</a>
 - version: "9.7"
   release_name: "R2019b"
   release_date: "September 11, 2019"
   license_number: 42
   jvm: "1.8.0_202"
+  new_product:
+    - Navigation Toolbox
+    - ROS Toolbox
 - version: "9.8"
   release_name: "R2020a"
   release_date: "March 18, 2020"
   license_number: 43
   jvm: "1.8.0_202"
+  new_product:
+    - Simulink Compiler
+    - MATLAB Web App Server
+    - Motor Control Motor Control Blockset
 - version: "9.9"
   release_name: "R2020b"
   release_date: "September 16, 2020"
   license_number: 44
   jvm: "1.8.0_202"
+  new_product:
+    - Deep Learning HDL Toolbox
+    - Lidar Toolbox
+    - RoadRunner Scene Builder
+    - RoadRunner
+    - RoadRunner Asset Library
+    - UAV Toolbox
 - version: "9.10"
   release_name: "R2021a"
   release_date: "March 10, 2021"
   license_number: 45
   jvm: "1.8.0_202"
+  new_product:
+    - DDS Blockset
+    - Radar Toolbox
+    - Satellite Communications Toolbox
 - version: "9.11"
   release_name: "R2021b"
   release_date: "September 22, 2021"
   license_number: 46
   jvm: "1.8.0_202"
+  new_product:
+    - RF PCB Toolbox
+    - Signal Integrity Toolbox
 - version: "9.12"
   release_name: "R2022a"
   release_date: "March 9, 2022"
   license_number: 47
   jvm: "1.8.0_202"
+  new_product:
+    - Bluetooth Toolbox
+    - DSP HDL Toolbox
+    - RoadRunner Scenario
+    - Wireless Testbench
 - version: "9.13"
   release_name: "R2022b"
   release_date: "September 14, 2022"
   license_number: 48
   jvm: "1.8.0_202"
+  new_product:
+    - Medical Imaging Toolbox
+    - Simscape Battery
 - version: "9.14"
   release_name: "R2023a"
   release_date: "March 15, 2023"
   license_number: 49
   jvm: "1.8.0_202"
+  new_product:
+    - MATLAB Test
+    - C2000 Microcontroller Blockset
 - version: "23.2"
   release_name: "R2023b"
   release_date: "September 13, 2023"
   license_number: 50
   jvm: "1.8.0_202"
+  new_product:
+    - Polyspace Test
+    - Simulink Fault Analyzer
 - version: "24.1"
   release_name: "R2024a"
   release_date: "March 20, 2024"
@@ -293,6 +359,7 @@
   release_date: "May 14, 2025"
   license_number: 53
   jvm: "1.8.0_202"
+  new_product: <a href="https://www.mathworks.com/products/matlab-copilot.html">MATLAB Copilot</a>
 - version: "25.2"
   release_name: "R2025b"
   release_date: "September 17, 2025"

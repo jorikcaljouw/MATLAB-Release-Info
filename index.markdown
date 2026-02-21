@@ -30,7 +30,19 @@ See the [repository](https://github.com/jorikcaljouw/MATLAB-Release-Info) for pl
     <td>{{ item.license_number }}</td>
     <td>{{ item.release_date }}</td>
     <td>{{ item.jvm }}</td>
-    <td>{{ item.new_product | join: '; ' }}</td>
+    <td>
+    {%- assign prod_count = item.new_product | size -%}
+
+    {%- if prod_count > 1 -%}
+      <ul>
+        {%- for prod in item.new_product -%}
+          <li>{{ prod }}</li>
+        {%- endfor -%}
+      </ul>
+    {%- elsif prod_count == 1 -%}
+      {{ item.new_product[0] }}
+    {%- endif -%}
+    </td>
   </tr>
   {% endfor %}
 </tbody>

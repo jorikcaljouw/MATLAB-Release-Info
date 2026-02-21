@@ -140,6 +140,8 @@
   release_date: "April 8, 2011"
   license_number: 25
   jvm: "1.6.0_17"
+  product_changes:
+    - Real-Time Workshop and Real-Time Workshop Embedded Coder transitioned to <a href="https://www.mathworks.com/products/matlab-coder.html">MATLAB Coder</a>, <a href="https://www.mathworks.com/products/simulink-coder.html">Simulink Coder</a> and <a href="https://www.mathworks.com/products/embedded-coder.html">Embedded Coder</a>.
 - version: "7.13"
   release_name: "R2011b"
   release_date: "September 1, 2011"
@@ -156,7 +158,9 @@
   license_number: 28
   jvm: "1.6.0_17"
   new_product:
-    - '<a href="https://www.mathworks.com/products/matlab-production-server.html">MATLAB Production Server</a>'
+    - <a href="https://www.mathworks.com/products/matlab-production-server.html">MATLAB Production Server</a>
+  product_changes:
+    - Financial Derivatives Toolbox and Fixed-Income Toolbox merged into <a href="https://www.mathworks.com/products/financial-instruments.html">Financial Instruments Toolbox</a>.
 - version: "8.1"
   release_name: "R2013a"
   release_date: "March 7, 2013"
@@ -251,6 +255,12 @@
   new_product:
     - <a href="https://www.mathworks.com/products/5g.html">5G Toolbox</a>
     - <a href="https://www.mathworks.com/products/sensor-fusion-and-tracking.html">Sensor Fusion and Tracking Toolbox</a>
+  product_changes:
+    - Simscape Electronics and Simscape Power Systems have merged to <a href="https://www.mathworks.com/products/simscape-electrical.html">Simscape Electrical</a>.
+    - Neural Network Toolbox renamed to <a href="https://www.mathworks.com/products/deep-learning.html">Deep Learning Toolbox</a>.
+    - Communications System Toolbox renamed to <a href="https://www.mathworks.com/products/communications.html">Communications Toolbox</a>.
+    - LTE System Toolbox renamed to <a href="https://www.mathworks.com/products/lte.html">LTE Toolbox</a>.
+    - WLAN System Toolbox renamed to <a href="https://www.mathworks.com/products/wlan.html">WLAN Toolbox</a>.
 - version: "9.6"
   release_name: "R2019a"
   release_date: "March 20, 2019"
@@ -284,6 +294,8 @@
     - <a href="https://www.mathworks.com/products/simulink-compiler.html">Simulink Compiler</a>
     - <a href="https://www.mathworks.com/products/matlab-web-app-server.html">MATLAB Web App Server</a>
     - <a href="https://www.mathworks.com/products/motor-control.html">Motor Control Blockset</a>
+  product_changes:
+    - LTE HDL Toolbox renamed to <a href="https://www.mathworks.com/products/wireless-hdl.html">Wireless HDL Toolbox</a>.
 - version: "9.9"
   release_name: "R2020b"
   release_date: "September 16, 2020"
@@ -305,6 +317,8 @@
     - <a href="https://www.mathworks.com/products/dds.html">DDS Blockset</a>
     - <a href="https://www.mathworks.com/products/radar.html">Radar Toolbox</a>
     - <a href="https://www.mathworks.com/products/satellite-communications.html">Satellite Communications Toolbox</a>
+  product_changes:
+    - Trading Toolbox merged into <a href="https://www.mathworks.com/products/datafeed.html">Datafeed Toolbox</a>.
 - version: "9.11"
   release_name: "R2021b"
   release_date: "September 22, 2021"
@@ -323,6 +337,10 @@
     - <a href="https://www.mathworks.com/products/dsp-hdl.html">DSP HDL Toolbox</a>
     - <a href="https://www.mathworks.com/products/roadrunner-scenario.html">RoadRunner Scenario</a>
     - <a href="https://www.mathworks.com/products/wireless-testbench.html">Wireless Testbench</a>
+  product_changes:
+    - OPC Toolbox renamed to <a href="https://www.mathworks.com/products/industrial-communication.html">Industrial Communication Toolbox</a>.
+    - Simulink Requirements renamed to <a href="https://www.mathworks.com/products/requirements-toolbox.html">Requirements Toolbox</a>.
+    - Polyspace® Bug Finder Access and Polyspace Code Prover Access merged to <a href="https://www.mathworks.com/products/polyspace-access.html">Polyspace Access</a>.
 - version: "9.13"
   release_name: "R2022b"
   release_date: "September 14, 2022"
@@ -364,6 +382,8 @@
   jvm: "1.8.0_202"
   new_product:
     - <a href="https://www.mathworks.com/products/matlab-copilot.html">MATLAB Copilot</a>
+  product_changes:
+    - Filter Design HDL Coder is <a href="https://www.mathworks.com/products/new_products/r2025a-transition.html">discontinued</a>.
 - version: "25.2"
   release_name: "R2025b"
   release_date: "September 17, 2025"

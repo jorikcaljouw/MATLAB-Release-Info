@@ -255,6 +255,12 @@
   new_product:
     - <a href="https://www.mathworks.com/products/5g.html">5G Toolbox</a>
     - <a href="https://www.mathworks.com/products/sensor-fusion-and-tracking.html">Sensor Fusion and Tracking Toolbox</a>
+  product_changes:
+    - Simscape Electronics and Simscape Power Systems have merged to <a href="https://www.mathworks.com/products/simscape-electrical.html">Simscape Electrical</a>.
+    - Neural Network Toolbox renamed to <a href="https://www.mathworks.com/products/deep-learning.html">Deep Learning Toolbox</a>.
+    - Communications System Toolbox renamed to <a href="https://www.mathworks.com/products/communications.html">Communications Toolbox</a>.
+    - LTE System Toolbox renamed to <a href="https://www.mathworks.com/products/lte.html">LTE Toolbox</a>.
+    - WLAN System Toolbox renamed to <a href="https://www.mathworks.com/products/wlan.html">WLAN Toolbox</a>.
 - version: "9.6"
   release_name: "R2019a"
   release_date: "March 20, 2019"

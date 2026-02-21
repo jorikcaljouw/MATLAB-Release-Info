@@ -5,7 +5,7 @@ title: MATLAB Version History
 
 # MATLAB Version History
 
-MathWorks has released a new version of MATLAB twice annually since 2016. The table below displays the MATLAB version number, release name, release number <a href="#note-release_number">*)</a>, release date, bundled JVM version (for Windows), new product introductions (since R2012b) and product changes (since R2011a).
+MathWorks has released a new version of MATLAB twice annually since 2006. The table below displays the MATLAB version number, release name, release number <a href="#note-release_number">*)</a>, release date, bundled JVM version (for Windows), new product introductions (since R2012b) and product changes (since R2011a).
 
 See the [repository](https://github.com/jorikcaljouw/MATLAB-Release-Info) for planned enhancements and for giving feedback on this page.
 

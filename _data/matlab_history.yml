@@ -161,7 +161,7 @@
   release_date: "March 7, 2013"
   license_number: 29
   jvm: "1.6.0_17"
-  new_product: 
+  new_product:
     - Trading Toolbox
     - <a href="https://www.mathworks.com/products/fixed-point-designer.html">Fixed-Point Designer</a>
 - version: "8.2"
@@ -228,10 +228,10 @@
   new_product:
     - <a href="https://www.mathworks.com/products/gpu-coder.html">GPU Coder</a>
     - LTE HDL Toolbox
-    - Simulink Check
-    - Simulink Coverage
+    - <a href="https://www.mathworks.com/products/simulink-check.html">Simulink Check</a>
+    - <a href="https://www.mathworks.com/products/simulink-coverage.html">Simulink Coverage</a>
     - Simulink Requirements
-    - Text Analytics Toolbox
+    - <a href="https://www.mathworks.com/products/text-analytics.html">Text Analytics Toolbox</a>
 - version: "9.4"
   release_name: "R2018a"
   release_date: "March 15, 2018"
@@ -270,80 +270,80 @@
   license_number: 42
   jvm: "1.8.0_202"
   new_product:
-    - Navigation Toolbox
-    - ROS Toolbox
+    - <a href="https://www.mathworks.com/products/navigation.html">Navigation Toolbox</a>
+    - <a href="https://www.mathworks.com/products/ros.html">ROS Toolbox</a>
 - version: "9.8"
   release_name: "R2020a"
   release_date: "March 18, 2020"
   license_number: 43
   jvm: "1.8.0_202"
   new_product:
-    - Simulink Compiler
-    - MATLAB Web App Server
-    - Motor Control Motor Control Blockset
+    - <a href="https://www.mathworks.com/products/simulink-compiler.html">Simulink Compiler</a>
+    - <a href="https://www.mathworks.com/products/matlab-web-app-server.html">MATLAB Web App Server</a>
+    - <a href="https://www.mathworks.com/products/motor-control.html">Motor Control Blockset</a>
 - version: "9.9"
   release_name: "R2020b"
   release_date: "September 16, 2020"
   license_number: 44
   jvm: "1.8.0_202"
   new_product:
-    - Deep Learning HDL Toolbox
-    - Lidar Toolbox
-    - RoadRunner Scene Builder
-    - RoadRunner
-    - RoadRunner Asset Library
-    - UAV Toolbox
+    - <a href="https://www.mathworks.com/products/deep-learning-hdl.html">Deep Learning HDL Toolbox</a>
+    - <a href="https://www.mathworks.com/products/lidar.html">Lidar Toolbox</a>
+    - <a href="https://www.mathworks.com/products/roadrunner-scene-builder.html">RoadRunner Scene Builder</a>
+    - <a href="https://www.mathworks.com/products/roadrunner.html">RoadRunner</a>
+    - <a href="https://www.mathworks.com/products/roadrunner-asset-library.html">RoadRunner Asset Library</a>
+    - <a href="https://www.mathworks.com/products/uav.html">UAV Toolbox</a>
 - version: "9.10"
   release_name: "R2021a"
   release_date: "March 10, 2021"
   license_number: 45
   jvm: "1.8.0_202"
   new_product:
-    - DDS Blockset
-    - Radar Toolbox
-    - Satellite Communications Toolbox
+    - <a href="https://www.mathworks.com/products/dds.html">DDS Blockset</a>
+    - <a href="https://www.mathworks.com/products/radar.html">Radar Toolbox</a>
+    - <a href="https://www.mathworks.com/products/satellite-communications.html">Satellite Communications Toolbox</a>
 - version: "9.11"
   release_name: "R2021b"
   release_date: "September 22, 2021"
   license_number: 46
   jvm: "1.8.0_202"
   new_product:
-    - RF PCB Toolbox
-    - Signal Integrity Toolbox
+    - <a href="https://www.mathworks.com/products/rf-pcb.html">RF PCB Toolbox</a>
+    - <a href="https://www.mathworks.com/products/signal-integrity.html">Signal Integrity Toolbox</a>
 - version: "9.12"
   release_name: "R2022a"
   release_date: "March 9, 2022"
   license_number: 47
   jvm: "1.8.0_202"
   new_product:
-    - Bluetooth Toolbox
-    - DSP HDL Toolbox
-    - RoadRunner Scenario
-    - Wireless Testbench
+    - <a href="https://www.mathworks.com/products/bluetooth.html">Bluetooth Toolbox</a>
+    - <a href="https://www.mathworks.com/products/dsp-hdl.html">DSP HDL Toolbox</a>
+    - <a href="https://www.mathworks.com/products/roadrunner-scenario.html">RoadRunner Scenario</a>
+    - <a href="https://www.mathworks.com/products/wireless-testbench.html">Wireless Testbench</a>
 - version: "9.13"
   release_name: "R2022b"
   release_date: "September 14, 2022"
   license_number: 48
   jvm: "1.8.0_202"
   new_product:
-    - Medical Imaging Toolbox
-    - Simscape Battery
+    - <a href="https://www.mathworks.com/products/medical-imaging.html">Medical Imaging Toolbox</a>
+    - <a href="https://www.mathworks.com/products/simscape-battery.html">Simscape Battery</a>
 - version: "9.14"
   release_name: "R2023a"
   release_date: "March 15, 2023"
   license_number: 49
   jvm: "1.8.0_202"
   new_product:
-    - MATLAB Test
-    - C2000 Microcontroller Blockset
+    - <a href="https://www.mathworks.com/products/matlab-test.html">MATLAB Test</a>
+    - <a href="https://www.mathworks.com/products/ti-c2000-microcontroller.html">C2000 Microcontroller Blockset</a>
 - version: "23.2"
   release_name: "R2023b"
   release_date: "September 13, 2023"
   license_number: 50
   jvm: "1.8.0_202"
   new_product:
-    - Polyspace Test
-    - Simulink Fault Analyzer
+    - <a href="https://www.mathworks.com/products/polyspace-test.html">Polyspace Test</a>
+    - <a href="https://www.mathworks.com/products/simulink-fault-analyzer.html">Simulink Fault Analyzer</a>
 - version: "24.1"
   release_name: "R2024a"
   release_date: "March 20, 2024"

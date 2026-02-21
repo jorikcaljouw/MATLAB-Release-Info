@@ -1,4 +1,5 @@
 [default]
 
 [default.extend-words]
-Ser = "Ser"
+SerDes = "SerDes"
+FLEXlm = "FLEXlm"

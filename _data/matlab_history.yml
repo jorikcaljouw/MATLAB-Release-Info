@@ -389,3 +389,17 @@
   release_date: "September 17, 2025"
   license_number: 54
   jvm: "1.8.0_202"
+- version: "26.1"
+  release_name: "R2026a"
+  release_date: "April 15, 2026"
+  license_number: 55
+  jvm: "1.8.0_202"
+  new_product:
+    - <a href="https://www.mathworks.com/products/simulink-copilot.html">Simulink Copilot</a>
+    - <a href="https://www.mathworks.com/products/matlab-course-designer.html">MATLAB Course Designer</a>
+    - <a href="https://www.mathworks.com/products/polyspace-as-you-code.html">Polyspace As You Code</a>
+    - <a href="https://www.mathworks.com/products/polyspace-copilot.html">Polyspace Copilot</a>
+    - <a href="https://www.mathworks.com/products/raspberry-pi.html">Raspberry Pi Blockset</a>
+    - <a href="https://www.mathworks.com/products/simulink-fmu-builder.html">Simulink FMU Builder</a>
+    - <a href="https://www.mathworks.com/products/stm32-microcontroller.html">STM32 Microcontroller Blockset</a>
+    - <a href="https://www.mathworks.com/products/wireless-network.html">Wireless Network Toolbox</a>

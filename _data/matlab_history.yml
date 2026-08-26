@@ -50,96 +50,115 @@
   release_date: "June 2004"
   license_number: 14
   jvm: "1.4.2"
+  mcr: "7.0"
 - version: "7.0.1"
   release_name: "R14SP1"
   release_date: "October 2004"
   license_number: 14
   jvm: "1.4.2"
+  mcr: "7.1"
 - version: "7.0.1"
   release_name: "R14SP1+"
   release_date: "November 2004"
   license_number: 14
   jvm: "1.4.2"
+  mcr: "7.1"
 - version: "7.0.4"
   release_name: "R14SP2"
   release_date: "March 7, 2005"
   license_number: 14
   jvm: "1.5.0"
+  mcr: "7.2"
 - version: "7.1"
   release_name: "R14SP3"
   release_date: "September 1, 2005"
   license_number: 14
   jvm: "1.5.0"
+  mcr: "7.3"
 - version: "7.2"
   release_name: "R2006a"
   release_date: "March 1, 2006"
   license_number: 15
   jvm: "1.5.0"
+  mcr: "7.4"
 - version: "7.3"
   release_name: "R2006b"
   release_date: "September 1, 2006"
   license_number: 16
   jvm: "1.5.0"
+  mcr: "7.5"
 - version: "7.4"
   release_name: "R2007a"
   release_date: "March 1, 2007"
   license_number: 17
   jvm: "1.5.0_07"
+  mcr: "7.6"
 - version: "7.5"
   release_name: "R2007b"
   release_date: "September 1, 2007"
   license_number: 18
   jvm: "1.6.0"
+  mcr: "7.7"
 - version: "7.6"
   release_name: "R2008a"
   release_date: "March 1, 2008"
   license_number: 19
   jvm: "1.6.0"
+  mcr: "7.8"
 - version: "7.7"
   release_name: "R2008b"
   release_date: "October 9, 2008"
   license_number: 20
   jvm: "1.6.0_04"
+  mcr: "7.9"
 - version: "7.8"
   release_name: "R2009a"
   release_date: "March 6, 2009"
   license_number: 21
   jvm: "1.6.0_04"
+  mcr: "7.10"
 - version: "7.9"
   release_name: "R2009b"
   release_date: "September 4, 2009"
   license_number: 22
   jvm: "1.6.0_12"
+  mcr: "7.11"
 - version: "7.9.1"
   release_name: "R2009bSP1"
   release_date: "April 1, 2010"
   license_number: 22
   jvm: "1.6.0_12"
+  mcr: "7.12"
 - version: "7.10"
   release_name: "R2010a"
   release_date: "March 5, 2010"
   license_number: 23
   jvm: "1.6.0_12"
+  mcr: "7.13"
 - version: "7.11"
   release_name: "R2010b"
   release_date: "September 3, 2010"
   license_number: 24
   jvm: "1.6.0_17"
+  mcr: "7.14"
 - version: "7.11.1"
   release_name: "R2010bSP1"
   release_date: "March 17, 2011"
   license_number: 24
   jvm: "1.6.0_17"
+  mcr: "7.14.1"
 - version: "7.11.2"
   release_name: "R2010bSP2"
   release_date: "April 5, 2012"
   license_number: 24
   jvm: "1.6.0_17"
+  mcr: "7.14.2"
 - version: "7.12"
   release_name: "R2011a"
   release_date: "April 8, 2011"
   license_number: 25
   jvm: "1.6.0_17"
+  mcr: "7.15"
   product_changes:
     - Real-Time Workshop and Real-Time Workshop Embedded Coder transitioned to <a href="https://www.mathworks.com/products/matlab-coder.html">MATLAB Coder</a>, <a href="https://www.mathworks.com/products/simulink-coder.html">Simulink Coder</a> and <a href="https://www.mathworks.com/products/embedded-coder.html">Embedded Coder</a>.
 - version: "7.13"
@@ -147,16 +166,19 @@
   release_date: "September 1, 2011"
   license_number: 26
   jvm: "1.6.0_17"
+  mcr: "7.16"
 - version: "7.14"
   release_name: "R2012a"
   release_date: "March 1, 2012"
   license_number: 27
   jvm: "1.6.0_17"
+  mcr: "7.17"
 - version: "8.0"
   release_name: "R2012b"
   release_date: "September 11, 2012"
   license_number: 28
   jvm: "1.6.0_17"
+  mcr: "8.0"
   new_product:
     - <a href="https://www.mathworks.com/products/matlab-production-server.html">MATLAB Production Server</a>
   product_changes:
@@ -166,6 +188,7 @@
   release_date: "March 7, 2013"
   license_number: 29
   jvm: "1.6.0_17"
+  mcr: "8.1"
   new_product:
     - Trading Toolbox
     - <a href="https://www.mathworks.com/products/fixed-point-designer.html">Fixed-Point Designer</a>
@@ -174,6 +197,7 @@
   release_date: "September 6, 2013"
   license_number: 30
   jvm: "1.7.0_11"
+  mcr: "8.2"
   new_product:
     - <a href="https://www.mathworks.com/products/polyspace-bug-finder.html">Polyspace Bug Finder</a>
     - <a href="https://www.mathworks.com/products/polyspace-code-prover.html">Polyspace Code Prover</a>
@@ -182,6 +206,7 @@
   release_date: "March 7, 2014"
   license_number: 31
   jvm: "1.7.0_11"
+  mcr: "8.3"
   new_product:
     - <a href="https://www.mathworks.com/products/lte.html">LTE Toolbox</a>
 - version: "8.4"
@@ -189,11 +214,13 @@
   release_date: "October 3, 2014"
   license_number: 32
   jvm: "1.7.0_11"
+  mcr: "8.4"
 - version: "8.5"
   release_name: "R2015a"
   release_date: "March 5, 2015"
   license_number: 33
   jvm: "1.7.0_60"
+  mcr: "8.5"
   new_product:
     - <a href="https://www.mathworks.com/products/simulink-test.html">Simulink Test</a>
 - version: "8.5.1"
@@ -201,16 +228,19 @@
   release_date: "October 14, 2015"
   license_number: 33
   jvm: "1.7.0_60"
+  mcr: "8.5.1"
 - version: "8.6"
   release_name: "R2015b"
   release_date: "September 3, 2015"
   license_number: 34
   jvm: "1.7.0_60"
+  mcr: "9.0"
 - version: "9.0"
   release_name: "R2016a"
   release_date: "March 3, 2016"
   license_number: 35
   jvm: "1.7.0_60"
+  mcr: "9.0.1"
   new_product:
     - <a href="https://www.mathworks.com/products/audio.html">Audio Toolbox</a>
     - <a href="https://www.mathworks.com/products/wlan.html">WLAN Toolbox</a>
@@ -219,11 +249,13 @@
   release_date: "September 15, 2016"
   license_number: 36
   jvm: "1.7.0_60"
+  mcr: "9.1"
 - version: "9.2"
   release_name: "R2017a"
   release_date: "March 9, 2017"
   license_number: 37
   jvm: "1.7.0_60"
+  mcr: "9.2"
   new_product:
     - <a href="https://www.mathworks.com/products/automated-driving.html">Automated Driving Toolbox</a>
     - <a href="https://www.mathworks.com/products/powertrain.html">Powertrain Blockset</a>
@@ -232,6 +264,7 @@
   release_date: "September 21, 2017"
   license_number: 38
   jvm: "1.8.0_121"
+  mcr: "9.3"
   new_product:
     - <a href="https://www.mathworks.com/products/gpu-coder.html">GPU Coder</a>
     - LTE HDL Toolbox
@@ -244,6 +277,7 @@
   release_date: "March 15, 2018"
   license_number: 39
   jvm: "1.8.0_144"
+  mcr: "9.4"
   new_product:
     - <a href="https://www.mathworks.com/products/predictive-maintenance.html">Predictive Maintenance Toolbox</a>
     - <a href="https://www.mathworks.com/products/vehicle-dynamics.html">Vehicle Dynamics Blockset</a>
@@ -252,6 +286,7 @@
   release_date: "September 12, 2018"
   license_number: 40
   jvm: "1.8.0_152"
+  mcr: "9.5"
   new_product:
     - <a href="https://www.mathworks.com/products/5g.html">5G Toolbox</a>
     - <a href="https://www.mathworks.com/products/sensor-fusion-and-tracking.html">Sensor Fusion and Tracking Toolbox</a>
@@ -266,6 +301,7 @@
   release_date: "March 20, 2019"
   license_number: 41
   jvm: "1.8.0_181"
+  mcr: "9.6"
   new_product:
     - <a href="https://www.mathworks.com/products/autosar.html">AUTOSAR Blockset</a>
     - <a href="https://www.mathworks.com/products/mixed-signal.html">Mixed-Signal Blockset</a>
@@ -282,6 +318,7 @@
   release_date: "September 11, 2019"
   license_number: 42
   jvm: "1.8.0_202"
+  mcr: "9.7"
   new_product:
     - <a href="https://www.mathworks.com/products/navigation.html">Navigation Toolbox</a>
     - <a href="https://www.mathworks.com/products/ros.html">ROS Toolbox</a>
@@ -290,6 +327,7 @@
   release_date: "March 18, 2020"
   license_number: 43
   jvm: "1.8.0_202"
+  mcr: "9.8"
   new_product:
     - <a href="https://www.mathworks.com/products/simulink-compiler.html">Simulink Compiler</a>
     - <a href="https://www.mathworks.com/products/matlab-web-app-server.html">MATLAB Web App Server</a>
@@ -301,6 +339,7 @@
   release_date: "September 16, 2020"
   license_number: 44
   jvm: "1.8.0_202"
+  mcr: "9.9"
   new_product:
     - <a href="https://www.mathworks.com/products/deep-learning-hdl.html">Deep Learning HDL Toolbox</a>
     - <a href="https://www.mathworks.com/products/lidar.html">Lidar Toolbox</a>
@@ -313,6 +352,7 @@
   release_date: "March 10, 2021"
   license_number: 45
   jvm: "1.8.0_202"
+  mcr: "9.10"
   new_product:
     - <a href="https://www.mathworks.com/products/dds.html">DDS Blockset</a>
     - <a href="https://www.mathworks.com/products/radar.html">Radar Toolbox</a>
@@ -324,6 +364,7 @@
   release_date: "September 22, 2021"
   license_number: 46
   jvm: "1.8.0_202"
+  mcr: "9.11"
   new_product:
     - <a href="https://www.mathworks.com/products/rf-pcb.html">RF PCB Toolbox</a>
     - <a href="https://www.mathworks.com/products/signal-integrity.html">Signal Integrity Toolbox</a>
@@ -332,6 +373,7 @@
   release_date: "March 9, 2022"
   license_number: 47
   jvm: "1.8.0_202"
+  mcr: "9.12"
   new_product:
     - <a href="https://www.mathworks.com/products/bluetooth.html">Bluetooth Toolbox</a>
     - <a href="https://www.mathworks.com/products/dsp-hdl.html">DSP HDL Toolbox</a>
@@ -346,6 +388,7 @@
   release_date: "September 14, 2022"
   license_number: 48
   jvm: "1.8.0_202"
+  mcr: "9.13"
   new_product:
     - <a href="https://www.mathworks.com/products/medical-imaging.html">Medical Imaging Toolbox</a>
     - <a href="https://www.mathworks.com/products/simscape-battery.html">Simscape Battery</a>
@@ -354,6 +397,7 @@
   release_date: "March 15, 2023"
   license_number: 49
   jvm: "1.8.0_202"
+  mcr: "9.14"
   new_product:
     - <a href="https://www.mathworks.com/products/matlab-test.html">MATLAB Test</a>
     - <a href="https://www.mathworks.com/products/ti-c2000-microcontroller.html">C2000 Microcontroller Blockset</a>
@@ -362,6 +406,7 @@
   release_date: "September 13, 2023"
   license_number: 50
   jvm: "1.8.0_202"
+  mcr: "23.2"
   new_product:
     - <a href="https://www.mathworks.com/products/polyspace-test.html">Polyspace Test</a>
     - <a href="https://www.mathworks.com/products/simulink-fault-analyzer.html">Simulink Fault Analyzer</a>
@@ -370,16 +415,19 @@
   release_date: "March 20, 2024"
   license_number: 51
   jvm: "1.8.0_202"
+  mcr: "24.1"
 - version: "24.2"
   release_name: "R2024b"
   release_date: "September 11, 2024"
   license_number: 52
   jvm: "1.8.0_202"
+  mcr: "24.2"
 - version: "25.1"
   release_name: "R2025a"
   release_date: "May 14, 2025"
   license_number: 53
   jvm: "1.8.0_202"
+  mcr: "25.1"
   new_product:
     - <a href="https://www.mathworks.com/products/matlab-copilot.html">MATLAB Copilot</a>
   product_changes:
@@ -389,11 +437,13 @@
   release_date: "September 17, 2025"
   license_number: 54
   jvm: "1.8.0_202"
+  mcr: "25.2"
 - version: "26.1"
   release_name: "R2026a"
   release_date: "April 15, 2026"
   license_number: 55
   jvm: "1.8.0_202"
+  mcr: "26.1"
   new_product:
     - <a href="https://www.mathworks.com/products/simulink-copilot.html">Simulink Copilot</a>
     - <a href="https://www.mathworks.com/products/matlab-course-designer.html">MATLAB Course Designer</a>

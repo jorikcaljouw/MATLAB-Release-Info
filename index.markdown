@@ -19,6 +19,7 @@ See the [repository](https://github.com/jorikcaljouw/MATLAB-Release-Info) for pl
     <th>Number</th>
     <th>Date</th>
     <th>Bundled JVM</th>
+    <th>MCR</th>
     <th>New Product</th>
     <th>Product Changes</th>
   </tr>
@@ -31,6 +32,7 @@ See the [repository](https://github.com/jorikcaljouw/MATLAB-Release-Info) for pl
     <td>{{ item.license_number }}</td>
     <td>{{ item.release_date }}</td>
     <td>{{ item.jvm }}</td>
+    <td>{{ item.mcr }}</td>
     <td>
       {%- assign prod_count = item.new_product | size -%}
 

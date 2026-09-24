@@ -453,3 +453,8 @@
     - <a href="https://www.mathworks.com/products/simulink-fmu-builder.html">Simulink FMU Builder</a>
     - <a href="https://www.mathworks.com/products/stm32-microcontroller.html">STM32 Microcontroller Blockset</a>
     - <a href="https://www.mathworks.com/products/wireless-network.html">Wireless Network Toolbox</a>
+- version: "26.2"
+  release_name: "R2026b"
+  release_date: "September 23, 2026"
+  license_number: 56
+  mcr: "26.2"

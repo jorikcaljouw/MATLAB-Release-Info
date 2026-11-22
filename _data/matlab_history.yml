@@ -464,7 +464,6 @@
     - <a href="https://www.mathworks.com/products/simulink-variant-manager.html">Simulink Variant Manager</a>
     - <a href="https://www.mathworks.com/products/polyspace-test-server.html">Polyspace Test Server</a>
   product_changes:
-    - MATLAB no longer bundles Java; install a <a href="https://www.mathworks.com/help/matlab/release-notes-R2026b.html">compatible OpenJDK</a> (OpenJDK 25 supported).
     - Lidar Toolbox renamed to <a href="https://www.mathworks.com/products/lidar.html">Point Cloud Toolbox</a>.
     - SoC Blockset renamed to SoC Blockset (for AMD).
     - Variant Manager for Simulink moved into <a href="https://www.mathworks.com/products/simulink-variant-manager.html">Simulink Variant Manager</a>.

@@ -457,7 +457,6 @@
   release_name: "R2026b"
   release_date: "September 23, 2026"
   license_number: 56
-  jvm: "Not bundled"
   mcr: "26.2"
   new_product:
     - <a href="https://www.mathworks.com/products/visual-inspection.html">Visual Inspection Toolbox</a>

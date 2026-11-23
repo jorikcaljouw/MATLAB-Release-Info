@@ -46,7 +46,7 @@ Each entry uses these fields (only `version` and `release_date` are required; om
 | Field | Example | Description |
 | --- | --- | --- |
 | `version` | `"25.1"` | MATLAB version number, quoted |
-| `release_name` | `R2025a` | Marketing release name (releases since R11.1) |
+| `release_name` | `"R2025a"` | Marketing release name (releases since R11.1) |
 | `release_date` | `"May 14, 2025"` | Free-form date string — year only for early releases, full date for recent ones |
 | `license_number` | `53` | FLEXlm release number, unquoted integer |
 | `jvm` | `"1.8.0_202"` | Bundled JVM version (Windows) |

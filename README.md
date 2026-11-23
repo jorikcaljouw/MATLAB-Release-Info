@@ -71,7 +71,7 @@ Example entry:
 
 ### Conventions and gotchas
 
-- **Quote** `version`, `release_date`, `jvm`, and `mcr`; leave `license_number` unquoted.
+- **Quote** `version`, `release_name`, `release_date`, `jvm`, and `mcr`; leave `license_number` unquoted.
 - **Links**: product names may contain raw HTML `<a>` anchors rather than Markdown, because the values are rendered inside the HTML table.
 - **Version numbers are not unique per row**: service packs share the base version (e.g. R14SP1 and R14SP2 are both `7.0.1`) and are separate entries.
 - **Ordering**: insert new releases at the end of the file; the template reverses the order for display.

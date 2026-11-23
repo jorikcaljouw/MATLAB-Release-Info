@@ -20,7 +20,9 @@
 
 title: MATLAB Release Info
 description: >- # this means to ignore newlines until "baseurl:"
-  To do: Write an awesome description for this site.
+  Reference of MATLAB version numbers, release names, FLEXlm release numbers,
+  release dates, bundled JVM and MATLAB Runtime versions, new product
+  introductions, and product changes — from 1984 to today.
 baseurl: "/MATLAB-Release-Info" # the subpath of your site, e.g. /blog
 url: "https://jorikcaljouw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jorikcaljouw
